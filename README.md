@@ -5,7 +5,6 @@
 
 # [HackerRank](https://www.hackerrank.com/profile/laxmimewada47)
 
-
 ## Description
 
 This repository contains my solutions to SQL challenges from HackerRank executed in the MySQL environment.
@@ -20,13 +19,9 @@ The repository covers:
 - Subqueries
 - CTEs
 
----
-
 ## Domains
 
----
-
-## Basic Select Challenges
+### Basic Select Challenges
 
 | No. | Challenge | Solution |
 |-----|------------|----------|
@@ -51,9 +46,7 @@ The repository covers:
 | 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](./Basic%20Select/Employee_Names.sql) |
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](./Basic%20Select/Employee_Salaries.sql) |
 
----
-
-## Advanced Select Challenges
+### Advanced Select Challenges
 
 | No. | Challenge | Solution |
 |-----|------------|----------|
@@ -63,16 +56,12 @@ The repository covers:
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](./Advanced%20Select/Binary_Tree_Nodes.sql) |
 | 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](./Advanced%20Select/New_Companies.sql) |
 
----
-
 ## References
 
 - [HackerRank SQL Practice](https://www.hackerrank.com/domains/sql)  
 - [MySQL Documentation](https://dev.mysql.com/doc/)  
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)  
 - [GeeksforGeeks SQL Articles](https://www.geeksforgeeks.org/sql-tutorial/)  
-
----
 
 ## Features & Mentions
 
@@ -82,19 +71,16 @@ The repository covers:
 - Includes direct links to HackerRank problems  
 - Built as part of my SQL and data analytics learning journey  
 
----
-
 ## License
 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](./LICENSE) file for more details.
 
 
-## Connect With Me
-
-## LinkedIn
+### Connect With Me
+### LinkedIn
 [LinkedIn](https://www.linkedin.com/feed/)
 
-## HackerRank
+### HackerRank
 [HackerRank](https://www.hackerrank.com/profile/laxmimewada47)
 
 ---
