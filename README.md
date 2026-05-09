@@ -76,7 +76,7 @@ The repository covers:
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](./LICENSE) file for more details.
 
 
-### Connect With Me
+## Connect With Me
 ### LinkedIn
 [LinkedIn](https://www.linkedin.com/feed/)
 
