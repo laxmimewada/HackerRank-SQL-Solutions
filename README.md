@@ -78,7 +78,7 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 
 ## Connect With Me
 ### LinkedIn
-[LinkedIn][((https://www.linkedin.com/in/laxmi-mewada29/))](https://www.linkedin.com/in/laxmi-mewada29/)
+[LinkedIn](https://www.linkedin.com/in/laxmi-mewada29/)
 
 ### HackerRank
 [HackerRank](https://www.hackerrank.com/profile/laxmimewada47)
