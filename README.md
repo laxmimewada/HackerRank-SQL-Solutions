@@ -91,6 +91,12 @@ The repository covers:
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](./Basic%20Join/Challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](./Basic%20Join/Contest_Leaderboard.sql) |
 
+### Advanced Join Challenges
+
+| No. | Challenge | Solution |
+|-----|------------|----------|
+| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](./Advanced%20Join/SQL_Project_Planning.sql) |
+| 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [SQL](./Advanced%20Join/Placements.sql) |
 ## References
 
 - [HackerRank SQL Practice](https://www.hackerrank.com/domains/sql)  
