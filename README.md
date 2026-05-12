@@ -56,6 +56,27 @@ The repository covers:
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](./Advanced%20Select/Binary_Tree_Nodes.sql) |
 | 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](./Advanced%20Select/New_Companies.sql) |
 
+### Aggregation Challenges
+
+| No. | Challenge | Solution |
+|-----|------------|----------|
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](./Aggregation/Revising_Aggregations_The_Count_Function.sql) |
+| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](./Aggregation/Revising_Aggregations_The_Sum_Function.sql) |
+| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [SQL](./Aggregation/Revising_Aggregations_Averages.sql) |
+| 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [SQL](./Aggregation/Average_Population.sql) |
+| 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](./Aggregation/Japan_Population.sql) |
+| 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](./Aggregation/Population_Density_Difference.sql) |
+| 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](./Aggregation/The_Blunder.sql) |
+| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](./Aggregation/Top_Earners.sql) |
+| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [SQL](./Aggregation/Weather_Observation_Station_2.sql) |
+| 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [SQL](./Aggregation/Weather_Observation_Station_13.sql) |
+| 11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [SQL](./Aggregation/Weather_Observation_Station_14.sql) |
+| 12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](./Aggregation/Weather_Observation_Station_15.sql) |
+| 13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [SQL](./Aggregation/Weather_Observation_Station_16.sql) |
+| 14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](./Aggregation/Weather_Observation_Station_17.sql) |
+| 15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](./Aggregation/Weather_Observation_Station_18.sql) |
+| 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](./Aggregation/Weather_Observation_Station_19.sql) |
+| 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](./Aggregation/Weather_Observation_Station_20.sql) |
 ## References
 
 - [HackerRank SQL Practice](https://www.hackerrank.com/domains/sql)  
