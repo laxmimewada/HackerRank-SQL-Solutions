@@ -77,6 +77,20 @@ The repository covers:
 | 15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](./Aggregation/Weather_Observation_Station_18.sql) |
 | 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](./Aggregation/Weather_Observation_Station_19.sql) |
 | 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](./Aggregation/Weather_Observation_Station_20.sql) |
+
+## Basic Join Challenges
+
+| No. | Challenge | Solution |
+|-----|------------|----------|
+| 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](./Basic%20Join/Asian_Population.sql) |
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [SQL](./Basic%20Join/African_Cities.sql) |
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](./Basic%20Join/Average_Population_of_Each_Continent.sql) |
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [SQL](./Basic%20Join/The_Report.sql) |
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](./Basic%20Join/Top_Competitors.sql) |
+| 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](./Basic%20Join/Ollivanders_Inventory.sql) |
+| 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](./Basic%20Join/Challenges.sql) |
+| 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](./Basic%20Join/Contest_Leaderboard.sql) |
+
 ## References
 
 - [HackerRank SQL Practice](https://www.hackerrank.com/domains/sql)  
