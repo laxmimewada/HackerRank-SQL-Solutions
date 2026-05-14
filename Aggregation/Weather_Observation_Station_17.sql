@@ -1,1 +1,10 @@
+-- Problem: Weather Observation Station 17
+-- Platform: HackerRank
+-- Difficulty: Easy
+-- Concepts Used: ROUND
 
+SELECT ROUND(LONG_W,4)
+FROM STATION
+WHERE LAT_N > 38.7780
+ORDER BY LAT_N
+LIMIT 1;
